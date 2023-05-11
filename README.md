@@ -1,0 +1,7 @@
+# **React**
+## *Czym się charakteryzuje?*
+React to biblioteka JavaScript stworzona przez Facebook, która skupia się na budowaniu interfejsów użytkownika. Charakteryzuje się ona tym, że działa ona w oparciu o koncepcję komponentów, co pozwala na łatwe tworzenie modułów interfejsu użytkownika, które można następnie łączyć w bardziej złożone struktury. React wykorzystuje wirtualny DOM, dzięki czemu aktualizacja interfejsu użytkownika jest szybka i efektywna.
+## *Jakie problemy rozwiązuje?*
+React rozwiązuje wiele problemów związanych z budowaniem interfejsów użytkownika, w tym problemy z wydajnością, skalowalnością, reużywalnością kodu oraz łatwością utrzymania. React pozwala na tworzenie interaktywnych interfejsów użytkownika bez konieczności odświeżania strony, co pozwala na szybsze i bardziej responsywne doświadczenia użytkownika.
+## *Do jakiego typu projektów warto stosować?*
+React jest idealny dla projektów, w których wymagane są szybkie i dynamiczne interfejsy użytkownika, takich jak aplikacje webowe, strony internetowe, panele administracyjne czy aplikacje mobilne. React jest popularnym wyborem dla projektów o dużych rozmiarach, ponieważ pozwala na łatwe zarządzanie stanem aplikacji, modularność i łatwą skalowalność. React jest również często wykorzystywany w projektach typu Single-Page Applications (SPA) oraz Progressive Web Applications (PWA).
